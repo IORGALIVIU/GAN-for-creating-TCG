@@ -6,6 +6,7 @@
 The project demonstrates end-to-end GAN training, including dataset acquisition, preprocessing, model architecture design, and sample visualization.
 
 The system follows a classical adversarial paradigm where a **Generator** produces candidate images while a **Discriminator** learns to distinguish real samples from generated ones.
+https://colab.research.google.com/drive/1K0_uUlOtgZnQKUU90rwYIohgf9Lqm-GS
 
 ---
 
