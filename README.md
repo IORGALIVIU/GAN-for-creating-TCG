@@ -2,7 +2,7 @@
 
 ## Overview
 
-**TCG GAN V1** is a PyTorch-based Generative Adversarial Network designed to synthesize Trading Card Game (TCG) images.
+**TCG GAN V1** is a PyTorch-based Generative Adversarial Network designed to synthesize Trading Card Game images (Duel Masters cards in our case).
 The project demonstrates end-to-end GAN training, including dataset acquisition, preprocessing, model architecture design, and sample visualization.
 
 The system follows a classical adversarial paradigm where a **Generator** produces candidate images while a **Discriminator** learns to distinguish real samples from generated ones.
@@ -111,6 +111,10 @@ Execution flow:
 ## Results
 
 During training, generated samples are periodically displayed to monitor learning progress and mode diversity.
+![WhatsApp Image 2026-01-16 at 00 16 59 (1)](https://github.com/user-attachments/assets/10643820-a288-4467-9ffe-7e3d63226599)
+
+![WhatsApp Image 2026-01-16 at 00 16 59](https://github.com/user-attachments/assets/92879688-5940-45b0-bef4-0ad22dfe95be)
+
 
 ---
 
